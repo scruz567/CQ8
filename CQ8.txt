@@ -1,0 +1,9 @@
+Analysis
+
+StairCase
+Time: O(n^2) nested loop based on input size
+Space: O(1)
+
+Alternating Characters
+Time: O(n) loop based on input size
+Space: O(1)
